@@ -1,1 +1,14 @@
-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
+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
+
+
+To create a git
+Open CMD
+type git config --global user.name "<Name>"
+
+H:\>git config --get --global user.name
+Shankara Devapriya
+
+H:\>git config --global user.email "s18844@sci.pdn.ac.lk"
+
+H:\>git config --get --global user.email
+s18844@sci.pdn.ac.lk
